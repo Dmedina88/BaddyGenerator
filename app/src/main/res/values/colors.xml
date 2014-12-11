@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="start_grad">#1B5E20</color>
+    <color name="cent_grad">#81C784</color>
+    <color name="end_grad">#314834</color>
+    <color name="stroke">#FFC107</color>
+    <color name="text">#F5DF7A</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#9E9E9E</color>
+    <color name="textColorPrimary">#9E9E9E</color>
+    <color name="offBlack">#212121</color>
+    <color name="textOther">#F5DF7A</color>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <dimen name="cardveiw_item_horizontal_margin">5dp</dimen>
+    <dimen name="cardveiw_edittext_width">55dp</dimen>
+    <dimen name="cardveiw_width">300dp</dimen>
+    <dimen name="cardveiw_horizontal_margin">10dp</dimen>
+    <dimen name="cardveiw_vertical_margin">10dp</dimen>
+    <dimen name="lineheight">1dp</dimen>
+
+</resources>
